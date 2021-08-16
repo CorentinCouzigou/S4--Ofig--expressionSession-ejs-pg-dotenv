@@ -1,0 +1,26 @@
+{
+  "name": "s04-atelier-pp-ofig-corentincouzigou",
+  "version": "1.0.0",
+  "description": "## Étape 1: Mise en place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Tardis/S04-atelier-pp-ofig-CorentinCouzigou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Tardis/S04-atelier-pp-ofig-CorentinCouzigou/issues"
+  },
+  "homepage": "https://github.com/O-clock-Tardis/S04-atelier-pp-ofig-CorentinCouzigou#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "pg": "^8.6.0"
+  }
+}
